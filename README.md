@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rauank24
 - 👀 I’m interested in developing softawares for MARTIANS :)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PYTHON
 
 
 <!---
